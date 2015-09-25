@@ -1,0 +1,2 @@
+2015-09-25 18:50:31	guest	http://localhost/BlipBlog/processwire/login/	Error: Failed login for 'admin' - Invalid password
+2015-09-25 18:50:41	admin	http://localhost/BlipBlog/processwire/login/	Successful login for 'admin'
