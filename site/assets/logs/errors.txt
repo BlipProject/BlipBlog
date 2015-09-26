@@ -1,0 +1,2 @@
+2015-09-26 03:37:26	guest	http://localhost/BlipBlog/about/	Compile Error: 	Cannot redeclare renderChildrenOf() (previously declared in C:\wamp\www\BlipBlog\site\templates\_head.php:40) (line 36 of C:\wamp\www\BlipBlog\site\templates\TB_topnav.inc)
+2015-09-26 03:37:35	guest	http://localhost/BlipBlog/	Compile Error: 	Cannot redeclare renderChildrenOf() (previously declared in C:\wamp\www\BlipBlog\site\templates\_head.php:40) (line 36 of C:\wamp\www\BlipBlog\site\templates\TB_topnav.inc)
